@@ -1,0 +1,11 @@
+NaukriURL=http://naukri.com
+ChromeDriver = E:\\chromedriver.exe
+InternetExplorer = E:\\IEDriverServer.exe
+TestdataExcelpath = E:\\Flipkart_Testdata.xls
+FlipkartWebURL = http://flipkart.com
+
+
+login_Lnk = Log In
+username_InBx = _2zrpKA
+password_InBx = //div[@class='Km0IJL col col-3-5']/div/form/div[2]/input
+submit_Btn = //div[@class='Km0IJL col col-3-5']/div/form/div[3]/button
